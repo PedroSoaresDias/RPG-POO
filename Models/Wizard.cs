@@ -20,11 +20,11 @@ namespace RPGPOOCSharp.Models
         {
             if (Bonus > 6)
             {
-                return $"{this.Name} Lançou Magia super efetiva com bonus de {Bonus}";
+                return $"{this.Name} Lançou Magia super efetiva com bonus de: {Bonus}";
             }
             else
             {
-                return $"{this.Name} Lançou uma magia com força fraca com bonus de {Bonus}";
+                return $"{this.Name} Lançou uma magia com força fraca com bonus de: {Bonus}";
             }
         }
     }

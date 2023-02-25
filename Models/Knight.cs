@@ -19,10 +19,10 @@ namespace RPGPOOCSharp.Models
         public override string Attack(int Bonus)
         {
             if(Bonus > 6){
-                return $"{this.Name} Atacou com sua espada de forma efetiva com bonûs de {Bonus}";
+                return $"{this.Name} Atacou com sua espada de forma efetiva com bonûs de: {Bonus}";
             }
             else{
-                return $"{this.Name} Atacou com sua espada da forma errada com bonûs de {Bonus}";
+                return $"{this.Name} Atacou com sua espada da forma errada com bonûs de: {Bonus}";
             }
         }
     }

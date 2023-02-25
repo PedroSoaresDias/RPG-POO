@@ -32,7 +32,7 @@ namespace RPGPOOCSharp.Models
                 return $"{this.Name} Fez o ataque super efetiva com bonûs de: {Bonus}";
             }
             else{
-                return $"{this.Name} Seu ataque está fraco e não foi efetivo com bonûs de {Bonus}";
+                return $"{this.Name} Seu ataque está fraco e não foi efetivo com bonûs de: {Bonus}";
             }
         }
     }
