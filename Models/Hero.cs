@@ -24,12 +24,12 @@ namespace RPGPOOCSharp.Models
         }
 
         public virtual string Attack(){
-            return $"{this.Name} Atacou com a sua espada";
+            return $"{this.Name} Fez o ataque";
         }
 
         public virtual string Attack(int Bonus){
             if(Bonus > 6){
-                return $"{this.Name} Atacou com a sua espada de forma super efetiva com bonûs de: {Bonus}";
+                return $"{this.Name} Fez o ataque super efetiva com bonûs de: {Bonus}";
             }
             else{
                 return $"{this.Name} Seu ataque está fraco e não foi efetivo com bonûs de {Bonus}";
