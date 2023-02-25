@@ -1,0 +1,15 @@
+C:\Users\pedro\RPGPOOCSharp\bin\Debug\net7.0\RPGPOOCSharp.exe
+C:\Users\pedro\RPGPOOCSharp\bin\Debug\net7.0\RPGPOOCSharp.deps.json
+C:\Users\pedro\RPGPOOCSharp\bin\Debug\net7.0\RPGPOOCSharp.runtimeconfig.json
+C:\Users\pedro\RPGPOOCSharp\bin\Debug\net7.0\RPGPOOCSharp.dll
+C:\Users\pedro\RPGPOOCSharp\bin\Debug\net7.0\RPGPOOCSharp.pdb
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.csproj.AssemblyReference.cache
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.AssemblyInfoInputs.cache
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.AssemblyInfo.cs
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.dll
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\refint\RPGPOOCSharp.dll
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.pdb
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\RPGPOOCSharp.genruntimeconfig.cache
+C:\Users\pedro\RPGPOOCSharp\obj\Debug\net7.0\ref\RPGPOOCSharp.dll
